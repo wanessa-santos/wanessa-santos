@@ -25,12 +25,12 @@ ML - Classification -Logistic Regression: Customer Churn
 Machine Learning - Unsupervised
 ML - Clustering- K-Means: Customer Segmentation
 
-🚧--> Under Construction <--🚧
+🚧 Under Construction <--🚧
 
 PySpark
 PySpark MLlib - ML Pipeline Random Forest - Car price prediction⚡
 
-🚧--> Under Construction <--🚧
+🚧 Under Construction <--🚧
 
 Recommender Systems
 ML - Recommender System - Content-Based: Movie Recommender⚡
@@ -55,7 +55,7 @@ Auto AI - IBM Watson - Iris Flower Multiclass Deploy⚡
 
 Chatbot powered by IBM Watson Assistant API - Flower Shop
 
-🚧--> Under Construction <--🚧
+🚧 Under Construction <--🚧
 --->
 <!---
 wanessa-santos/wanessa-santos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

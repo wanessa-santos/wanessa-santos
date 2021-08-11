@@ -1,8 +1,28 @@
 - 👋 Olá, Eu sou @wanessa-santos
-- 👀 Sou Economista apaixonada por dados e análises, realizando aprendizado continuado em Ciências de Dados, Análise de Dados e Machine Learning
+- 👀 Sou Economista, apaixonada por dados e análises, realizando aprendizado continuado em Ciências de Dados, Análise de Dados e Machine Learning
+- Acredito que em nenhum momento da vida paramos de estudar e nos atualizar, o aprendizado não tem fim, assim como a evolução tecnológica
 
-Essas são alguns dos cursos que já realizei na área de ciências de dados, análises e machine learning
+Meu Git-Hub está em constante atualização, e pretendo transformá-lo em um histórico da nova fase da minha vida
 
+Estes são alguns projetos que já realizei ou estão em contrução:
+
+-
+-
+
+Essas são alguns dos cursos que já realizei ou estão em andamento na área de ciências de dados, análises e machine learning
+
+- IBM's Data Science Professional Certificate Completo✔️
+- IBM´s Applied Data Science Capstone Completo✔️
+- IBM´s Python Project for Data Science Completo✔️
+- IBM´s Machine Learning With Python Completo✔️
+- IBM´s Data Visualization With Python Completo✔️
+- IBM´s Data Analisys With Python Completo✔️
+- IBM´s Data Bases and SQL for Data Science Completo✔️
+- IBM´s Data Science Metodology Completo✔️
+- IBM´s Tools for Data Science Completo✔️
+- IBM´s Python for Data Science and AI Completo✔️
+- IBM´s Data Science Orientation Completo✔️
+- Professional Badges HERE
 
 LinkedIn: https://www.linkedin.com/in/wnsantos/
 

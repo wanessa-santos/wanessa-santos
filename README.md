@@ -4,7 +4,7 @@
 
 Meu Git-Hub está em constante atualização, e pretendo transformá-lo em um histórico da nova fase da minha vida
 
-Estes são alguns projetos que já realizei ou estão em contrução:
+Estes são alguns projetos que já realizei ou estão em construção:
 
 -
 -

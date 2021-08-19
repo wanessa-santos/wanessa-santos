@@ -22,7 +22,7 @@ Essas são alguns dos cursos que já realizei ou estão em andamento na área de
 - IBM´s Tools for Data Science Completo✔️
 - IBM´s Python for Data Science and AI Completo✔️
 - IBM´s Data Science Orientation Completo✔️
-- Professional Badges HERE
+- Professional Badges <a href="https://www.credly.com/users/wanessa-nunes-dos-santos/badges">HERE</a>
 
 LinkedIn: https://www.linkedin.com/in/wnsantos/
 

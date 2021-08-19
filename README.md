@@ -11,17 +11,17 @@ Estes são alguns projetos que já realizei ou estão em construção:
 
 Essas são alguns dos cursos que já realizei ou estão em andamento na área de ciências de dados, análises e machine learning
 
-- IBM's Data Science Professional Certificate Completo✔️
-- IBM´s Applied Data Science Capstone Completo✔️
-- IBM´s Python Project for Data Science Completo✔️
-- IBM´s Machine Learning With Python Completo✔️
-- IBM´s Data Visualization With Python Completo✔️
-- IBM´s Data Analisys With Python Completo✔️
-- IBM´s Data Bases and SQL for Data Science Completo✔️
-- IBM´s Data Science Metodology Completo✔️
-- IBM´s Tools for Data Science Completo✔️
-- IBM´s Python for Data Science and AI Completo✔️
-- IBM´s Data Science Orientation Completo✔️
+- IBM's Data Science Professional Certificate <a href="https://www.credly.com/badges/d54a2cf7-c9c3-4bef-abb6-62ed75956b3e">Completo</a>✔️
+- IBM´s Applied Data Science Capstone <a href="https://www.credly.com/badges/575c1013-26b3-432c-ae81-dde3320f3f8f">Completo</a>✔️
+- IBM´s Python Project for Data Science <a href="https://www.credly.com/badges/fc6f6bac-33d5-473e-9061-871813c44059>Completo</a>✔️
+- IBM´s Machine Learning With Python <a href="https://www.credly.com/badges/7d2dbb27-c486-4643-9dd3-f0bc165dfc95">Completo</a>✔️
+- IBM´s Data Visualization With Python <a href="https://www.credly.com/badges/aaf06b5d-5ab5-4c8e-aafd-0873bdc80cfc">Completo</a>✔️
+- IBM´s Data Analisys With Python <a href="https://www.credly.com/badges/eb3377ed-fc13-4b2d-8c89-3e203240067f>Completo</a>✔️
+- IBM´s Data Bases and SQL for Data Science <a href="https://www.credly.com/badges/0688ff4f-ab50-4d5e-a324-a57983659f2e">Completo</a>✔️
+- IBM´s Data Science Metodology <a href="https://www.credly.com/badges/e04cdbf0-d811-478c-9b49-740207e0a229">Completo</a>✔️
+- IBM´s Tools for Data Science <a href="https://www.credly.com/badges/3af5953b-30e1-48ab-aa24-debf3023ff0b">Completo</a>✔️
+- IBM´s Python for Data Science and AI <a href="https://www.credly.com/badges/7639d32f-3399-4a07-8fa9-cb1a4829ee61">Completo</a>✔️
+- IBM´s Data Science Orientation <a href="https://www.credly.com/badges/0977f736-ff2a-4d1c-87b3-ec0f7e5479a7">Completo</a>✔️
 - Professional Badges <a href="https://www.credly.com/users/wanessa-nunes-dos-santos/badges">HERE</a>
 
 LinkedIn: https://www.linkedin.com/in/wnsantos/

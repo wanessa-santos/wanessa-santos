@@ -13,10 +13,10 @@ Essas são alguns dos cursos que já realizei ou estão em andamento na área de
 
 - IBM's Data Science Professional Certificate <a href="https://www.credly.com/badges/d54a2cf7-c9c3-4bef-abb6-62ed75956b3e">Completo</a>✔️
 - IBM´s Applied Data Science Capstone <a href="https://www.credly.com/badges/575c1013-26b3-432c-ae81-dde3320f3f8f">Completo</a>✔️
-- IBM´s Python Project for Data Science <a href="https://www.credly.com/badges/fc6f6bac-33d5-473e-9061-871813c44059>Completo</a>✔️
+- IBM´s Python Project for Data Science <a href="https://www.credly.com/badges/fc6f6bac-33d5-473e-9061-871813c44059">Completo</a>✔️
 - IBM´s Machine Learning With Python <a href="https://www.credly.com/badges/7d2dbb27-c486-4643-9dd3-f0bc165dfc95">Completo</a>✔️
 - IBM´s Data Visualization With Python <a href="https://www.credly.com/badges/aaf06b5d-5ab5-4c8e-aafd-0873bdc80cfc">Completo</a>✔️
-- IBM´s Data Analisys With Python <a href="https://www.credly.com/badges/eb3377ed-fc13-4b2d-8c89-3e203240067f>Completo</a>✔️
+- IBM´s Data Analisys With Python <a href="https://www.credly.com/badges/eb3377ed-fc13-4b2d-8c89-3e203240067f">Completo</a>✔️
 - IBM´s Data Bases and SQL for Data Science <a href="https://www.credly.com/badges/0688ff4f-ab50-4d5e-a324-a57983659f2e">Completo</a>✔️
 - IBM´s Data Science Metodology <a href="https://www.credly.com/badges/e04cdbf0-d811-478c-9b49-740207e0a229">Completo</a>✔️
 - IBM´s Tools for Data Science <a href="https://www.credly.com/badges/3af5953b-30e1-48ab-aa24-debf3023ff0b">Completo</a>✔️
